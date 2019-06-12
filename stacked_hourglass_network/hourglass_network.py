@@ -1,9 +1,3 @@
-'''
-Created on 22.08.2018
-
-@author: michael
-'''
-
 from keras.layers import Conv2D, BatchNormalization, Input, MaxPool2D, Add
 from keras.utils import plot_model
 from keras.models import Model
