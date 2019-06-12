@@ -1,6 +1,6 @@
 # Sensor model translation (SMT)
 
-This repository contains the source code for our sensor model translation from simulated to real Kinect 2 TM depth data that is developed at [Cognitive Systems Group](https://cogsys.reutlingen-university.de/), Reutlingen University.
+This repository contains the source code for our sensor model translation from simulated to real Kinect 2 TM depth data.
 
 ![sensor-model-translation](sensor-model-translation.png)
 
