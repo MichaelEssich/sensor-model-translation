@@ -1,6 +1,7 @@
 # Sensor model translation (SMT)
 
-This repository contains the source code for our sensor model translation from simulated to real Kinect 2 TM depth data.
+This repository contains the source code for our sensor model translation from simulated to real Kinect 2 TM depth data.  
+For human pose estimation we use our own implementation of a [Stacked Hourglass Network](https://arxiv.org/abs/1603.06937).
 
 ![sensor-model-translation](sensor-model-translation.png)
 
