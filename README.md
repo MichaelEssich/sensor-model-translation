@@ -40,3 +40,17 @@ sensor-model-translation
     Two data samples (real and sim) are provided in data_samples_for_prediction
     for predict.py and predict_with_smt.py if you just want to try the prediction.
 ```
+## Citation
+Please cite our work as
+
+M. Essich, D. Ludl, T. Gulde and C. Curio, "Learning to Translate Between Real World and Simulated 3D Sensors While Transferring Task Models", 2019 Seventh International Conference on 3D Vision (3DV), Sept. 2019
+
+```
+@InProceedings{Essich2019,
+  author    = {Michael Essich and Dennis Ludl and Thomas Gulde and Cristóbal Curio},
+  title     = {Learning to Translate Between Real World and Simulated 3D Sensors While Transferring Task Models},
+  booktitle = {2019 Seventh International Conference on 3D Vision (3DV)},
+  year      = {2019},
+  month     = {9},
+}
+```
